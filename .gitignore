@@ -1,1 +1,26 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
 
+# Logs and databases
+*.log
+*.sqlite
+
+# Environments and secret keys
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Common dependency & build folders (uncomment as needed)
+# node_modules/
+# .venv/
+# venv/
+# dist/
+# build/
